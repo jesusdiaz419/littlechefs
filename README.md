@@ -1,8 +1,7 @@
-# SonSolis
+# Little Chefs
 
-This project came about from me looking for a way to publish all my work under a single domain.
+Little Chefs is a blind box company dedicated to inspire young culinary artists. Each box contains a miniature chef figure along with a recipe card and ingredients to build and to master culinary arts. 
 
-Through this project I've been teaching myself web development. Its still has a long way to go as I learn more about the different tools and frameworks within web development.
+There are many series to collect each along with many recipes and many different chefs. This takes young culinary artists on a delicius journey through different cuisines encouraging them to explore new ingredients and cooking techniques. 
 
-It has also come a long way when giving me a space to publish and quickly reference the things I've done as I've developed as a computer scientist.
-
+Our mission is to make cooking fun and accesible showing everyone they can be a Little Chefs, by combining the excitment of blind boxes with the joy of cooking. We hope to spark a life long passion for cooking and creativity in children everywhere. 
